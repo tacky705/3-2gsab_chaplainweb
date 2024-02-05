@@ -274,6 +274,7 @@ a:focus {
   transition: all .2s;
 }
 
+
 .slider_section .detail-box .btn-box .btn1:hover {
   background-color: transparent;
   color: #f89646;
@@ -297,6 +298,7 @@ a:focus {
 
 .slider_section .img-box img {
   width: 100%;
+  border-radius: 15%;
 }
 
 .slider_section .carousel-indicators {
